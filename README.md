@@ -1,2 +1,2 @@
-# mpstats
-Wechat Massive Plotform Stats Tool
+# Wechat Massive Plotform Stats Tool
+run in Chrome console
